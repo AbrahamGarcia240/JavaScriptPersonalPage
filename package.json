@@ -2,7 +2,7 @@
   "name": "personal-page",
   "title": "Pagina Personal",
   "version": "1.0.0",
-  "author": "Ethien Salinas",
+  "author": "Abraham Garcia",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-preset-env": "^1.2.2",
