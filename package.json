@@ -1,0 +1,25 @@
+{
+  "name": "personal-page",
+  "title": "Pagina Personal",
+  "version": "1.0.0",
+  "author": "Ethien Salinas",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-env": "^1.2.2",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.8",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-header": "^1.8.8",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.12.4",
+    "pump": "^1.0.2"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {}
+}
