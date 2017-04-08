@@ -42,7 +42,7 @@ gulp.task('minify-css', ['less'], () => {
 // Minify JS
 gulp.task('minify-js', function(cb){
     pump([
-        gulp.src('js/freelancer.js'),
+        gulp.src('js/controllers.js'),
         uglify(),
         header(banner, { pkg: pkg }),
         rename({ suffix: '.min' }),
